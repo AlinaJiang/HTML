@@ -1,6 +1,3 @@
-
-React
-=====
 # React历史 
 Vue是2014年开源<br/>
 React是2013年面向开发者<br/>
